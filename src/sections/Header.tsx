@@ -90,7 +90,7 @@ export default function Header() {
             <img alt="Gamba logo" src="/logo.svg" />
           </Logo>
         </div>
-        <div style={{ display: 'flex', gap: '5px', alignItems: 'center', position: 'relative' }}>
+        <div style={{ display: 'flex', gap: '10px', alignItems: 'center', position: 'relative' }}>
           {pool.jackpotBalance > 0 && (
             <Bonus onClick={() => setJackpotHelp(true)}>
               💰 <TokenValue amount={pool.jackpotBalance} />
