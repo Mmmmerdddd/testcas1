@@ -53,7 +53,7 @@ export default function App() {
     <>
       {newcomer && (
         <Modal>
-          <h1>Welcome</h1>
+          <h1>Welcome to FurbyWifHat Casino</h1>
           <div style={{ position: 'relative' }}>
             <div style={{ maxHeight: '400px', padding: '10px', overflow: 'auto', position: 'relative' }}>
               <p><b>1. Age Requirement:</b> Must be at least 18 years old.</p>
