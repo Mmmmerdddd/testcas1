@@ -11,7 +11,7 @@ const Bonus = styled.button`
   cursor: pointer;
   color: #ff0000;
   border-radius: 10px;
-  background: #F1C40F;
+  background: #F9D64A;
   padding: 2px 10px;
   font-size: 12px;
   text-transform: uppercase;
