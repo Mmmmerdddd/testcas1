@@ -13,7 +13,7 @@ const Bonus = styled.button`
   border-radius: 10px;
   background: #F9D64A;
   padding: 10px 10px;
-  font-size: 14px;
+  font-size: 18px;
   text-transform: uppercase;
   font-weight: bold;
   transition: background .2s;
