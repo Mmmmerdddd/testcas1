@@ -29,7 +29,7 @@ body, input, button, textarea, pre {
 
 h1, h2 {
   margin: 0;
-  text-color: '#ff0000';
+  color: '#ff0000';
 }
 
 body {
